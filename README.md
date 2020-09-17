@@ -1,10 +1,9 @@
 ## Voice-Based-Contact-Search-System
 ### HMM based speech model to search names with user
 
-
-SEARCH CONTACT LIST
-MAYANK SHARMA
-SHIVAM MAURYA
+Source Contributors
+MAYANK SHARMA,
+SHIVAM MAURYA,
 RUPAK GUPTA
 
 The project is about voice based search of the contact names and details in the list. The main idea of the project is to take an input in the form of speech and outputs the name spoken onto the screen. We have used various concepts like cepstral coefficients, Durbin’s algorithm, Viterbi algorithm, LBG algorithm, HMM procedures, etc. There are 15 words in our list that makes total of 15 models.
